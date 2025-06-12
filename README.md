@@ -181,13 +181,6 @@ Bu proje açık kaynak ruhuyla geliştirilmiştir. Katkılarınızı bekliyoruz:
 
 Bu proje MIT lisansı altında yayınlanmıştır.
 
-## 👨‍💻 Yazar
-
-**[Adınız]**
-- Email: [email@example.com]
-- LinkedIn: [linkedin.com/in/profiliniz]
-- GitHub: [github.com/kullaniciadiniz]
-
 ## 🙏 Teşekkürler
 
 - **BERTopic** geliştiricilerine
@@ -196,5 +189,15 @@ Bu proje MIT lisansı altında yayınlanmıştır.
 - **Google Colab** platformuna
 
 ---
+## 📞 İletişim
 
-⭐ **Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 E-posta: [mehmetaksoy49@gmail.com]
+
+- Pull Request ile katkıda bulunun
+- Projeyi yıldızlamayı unutmayın! ⭐
+
+---
+
+**Not**: Bu proje eğitim amaçlı geliştirilmiştir ve akademik çalışmalarda referans olarak kullanılabilir.
